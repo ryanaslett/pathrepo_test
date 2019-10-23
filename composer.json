@@ -1,0 +1,15 @@
+{
+    "name": "ryanaslett/pathrepo_test",
+    "description": "subordinate path_repo for demo of test",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Ryan Aslett (Mixologic)",
+            "email": "ryan@association.drupal.org"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "ryanaslett/arbitrary_dependency": "^1.0"
+    }
+}
